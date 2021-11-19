@@ -20,7 +20,7 @@ Route::get('/app-download', function () {
 });
 
 Route::get('/join', function () {
-    return redirect('https://join.slack.com/t/proscholy/shared_invite/zt-kffcuuwj-Xd4FTtv7Dp2~W9hGWu_2xQ');
+    return redirect('https://discord.com/invite/4tUKZ8f');
 });
 
 
